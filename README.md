@@ -36,3 +36,10 @@ This is a **FastAPI-based application** that allows users to upload various docu
     ├── README.md # Project documentation
     └── requirements.txt # Python dependencies
 
+## 🔧 How to Run
+### 1. Create and Activate Virtual Environment
+### 2. Install Dependencies
+### 3. Setup Google Gemini API
+### 4. Run the Application
+
+
