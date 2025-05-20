@@ -40,7 +40,7 @@ This is a **FastAPI-based application** that allows users to upload various docu
   **4. Run the Application**  
     python main.py
 
-## Usage
+## 📖 Usage
 
 After starting the application, open your browser to the provided URL (e.g., http://localhost:8000). You will see a user-friendly web interface where you can:
 
