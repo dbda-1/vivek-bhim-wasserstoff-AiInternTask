@@ -44,13 +44,13 @@ This is a **FastAPI-based application** that allows users to upload various docu
 
 After starting the application, open your browser to the provided URL (e.g., http://localhost:8000). You will see a user-friendly web interface where you can:
 
-  Upload multiple documents in formats such as PDF, DOCX, TXT, CSV, Excel files, and images.
+   Upload multiple documents in formats such as PDF, DOCX, TXT, CSV, Excel files, and images.
 
-  View the extracted and preprocessed text from the uploaded files.
+   View the extracted and preprocessed text from the uploaded files.
+ 
+   Use the question input box at the bottom to ask queries related to the uploaded documents.
 
-  Use the question input box at the bottom to ask queries related to the uploaded documents.
-
-  Receive context-aware answers powered by Google Gemini AI, based on semantic search over your documents
+   Receive context-aware answers powered by Google Gemini AI, based on semantic search over your documents
 
 
 
