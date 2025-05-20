@@ -27,19 +27,22 @@ This is a **FastAPI-based application** that allows users to upload various docu
 
 ---
 
-## 📁 Folder Structure
-  project/
-    ├── main.py # Main FastAPI application
-    ├── templates/ # HTML templates (e.g., index.html)
-    ├── uploaded_documents/ # Folder to store uploaded files
-    ├── API.env # Google API key file
-    ├── README.md # Project documentation
-    └── requirements.txt # Python dependencies
-
 ## 🔧 How to Run
-### 1. Create and Activate Virtual Environment
-### 2. Install Dependencies
-### 3. Setup Google Gemini API
-### 4. Run the Application
+
+**1. Create and Activate Virtual Environment**  
+python -m venv venv  
+source venv/bin/activate  &nbsp;&nbsp;&nbsp;# On Windows: venv\Scripts\activate  
+
+**2. Install Dependencies**  
+pip install -r requirements.txt  
+
+**3. Setup Google Gemini API**  
+Create a file named `.env` or `API.env`  
+Add your Gemini API key:  
+GOOGLE_API_KEY=your_google_gemini_api_key  
+
+**4. Run the Application**  
+python main.py
+
 
 
